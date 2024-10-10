@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">Backend developer, but who ventures into different areas.</h3>
+<h3 align="center">Software Engineer, but who ventures into different areas.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fer-matheus&label=Profile%20views&color=0e75b6&style=flat" alt="fer-matheus" /> </p>
 
